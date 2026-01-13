@@ -1,0 +1,70 @@
+# LLM Integration and AI
+openai==1.3.7
+anthropic==0.7.1
+cohere==4.29.0
+huggingface-hub==0.19.4
+transformers==4.35.2
+langchain==0.1.1
+langchain-community==0.0.10
+llama-index==0.9.33
+
+# Code Analysis and AST Processing
+ast==3.13.0
+router==0.1.1
+astor==0.8.1
+py==1.13.0
+
+# Code Generation and Formatting
+black==23.12.1
+isort==5.13.2
+autopep8==2.0.4
+flake8==6.1.0
+pylint==3.0.3
+
+# Testing and Quality Assurance
+pytest==7.4.3
+pytest-cov==4.1.0
+pytest-asyncio==0.21.1
+mypy==1.7.1
+bandit==1.7.5
+
+# Async and Concurrency
+asyncio==3.4.3
+aiohttp==3.9.1
+aiofiles==23.2.1
+
+# Data Processing and Utilities
+pandas==2.1.3
+numpy==1.24.3
+jinja2==3.1.2
+
+# API and Web Framework
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+
+# Database
+sqlalchemy==2.0.23
+alembic==1.13.1
+psycopg2-binary==2.9.9
+
+# File Processing
+python-dotenv==1.0.0
+pyyaml==6.0.1
+
+# Code Metrics and Performance
+radon==6.0.1
+prometheus-client==0.19.0
+
+# Logging and Monitoring
+loguru==0.7.2
+sentry-sdk==1.39.1
+structlog==23.3.0
+
+# Version Control Integration
+GitPython==3.1.40
+pygithub==2.1.1
+
+# Documentation
+sphinx==7.2.6
+sphinx-rtd-theme==2.0.0
